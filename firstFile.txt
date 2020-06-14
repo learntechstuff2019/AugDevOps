@@ -1,3 +1,4 @@
 THis is my file
 This is second change
 The file has changed already
+This is third change
